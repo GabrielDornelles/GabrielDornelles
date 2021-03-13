@@ -1,5 +1,5 @@
 ### Hey :)
-![bf](https://user-images.githubusercontent.com/56324869/111016506-2d62a900-838d-11eb-884d-f74220e36a9f.jpg)
+![bf](https://user-images.githubusercontent.com/56324869/111017004-b37fef00-838f-11eb-9888-42809e66051a.png)
 
 ----------------------------------------------------------------------------------------------------------------
 - 💙 I like to work with Python in general.
