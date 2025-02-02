@@ -22,4 +22,7 @@ With over 5 years of experience, I specialize in building scalable backend syste
 
 - [server-client](https://github.com/GabrielDornelles/server-client): A basic server to N clients in C sockets I've made for fun while I was in a vacation to show students how simple their life was with Python.
 
+- [aiyume](https://aiyume.airinn.com.br/): A platform for anime roleplay with LLMs that have long-term memory. I've made this project to improve my frontend skills (react and typescript) and to learn Stripe payment integration and Supabase (to have a reliable cloud sql db that wouldnt just break because its only living inside a container). Everything there was done by myself so its a pretty good baseline to check the technologies I use.
+
 I've worked on a few other projects too but they may be too much outdated nowadays.
+
