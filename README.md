@@ -24,7 +24,7 @@ With over 5 years of experience, I specialize in building scalable backend syste
 
 - [aiyume](https://aiyume.airinn.com.br/): A platform for anime roleplay with LLMs that have long-term memory. I've made this project to improve my frontend skills (react and typescript) and to learn Stripe payment integration and Supabase (to have a reliable cloud sql db that wouldnt just break because its only living inside a container). Everything there was done by myself so its a pretty good baseline to have an overview of the stacks I work with.
 
-  https://github.com/user-attachments/assets/50718a7f-19e3-4d51-83d3-1789b2ac0762
-
+  https://github.com/user-attachments/assets/2c7ddb0d-5b76-4242-b575-70c78592f92f
+  
 I've worked on a few other projects too but they may be too much outdated nowadays.
 
